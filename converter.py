@@ -5,6 +5,7 @@ START_OP = "01040400000000000000000000000000"
 POLY_OP = "011580C8000000000000000000000000"
 END_OP = "00000000"
 MAT_CONST = "09400000001A"
+ROM_POL_OFFSET = int("0x2000010", 0)
 
 def float_to_hex(a_float):
     return hex(struct.unpack('>I', struct.pack('<f', float(a_float)))[0])
@@ -117,10 +118,48 @@ def stf_to_file(out_stf, label):
     mat.write(out_stf[1])
     mat.close()
 
+def swap_endian(address):
+    new_address = ""
+    address = address.replace("0x", "")
+    i = 0
+    while i < len(address):
+        if i == 0 and len(address) % 2 != 0:
+            new_address += "0" + address[0]
+            i += 1
+            continue
+        else:
+            new_address = address[i] + address[i+1] + new_address
+            i += 2
+    while len(new_address) != 8:
+        new_address += "0"
+    return new_address
+
+def addr_to_model_ptr(address):
+    if "0x" in address:
+        address = int(address, 0)
+    else:
+        address = int(address, 16)
+    address += ROM_POL_OFFSET
+    address /= 4
+    address = hex(int(address))
+    address = swap_endian(address)
+    return address.upper()
+
+def addr_to_mat_ptr(address):
+    if "0x" in address:
+        address = int(address, 0)
+    else:
+        address = int(address, 16)
+    address /= 2
+    address = hex(int(address))
+    address = swap_endian(address)
+    return address.upper()
+
 def main():
     print(f"Converting model...\n\n")
     in_obj = open_obj("./in.obj")
     out_stf = convert_obj(in_obj)
     stf_to_file(out_stf, "out")
-
+    print(addr_to_model_ptr("0xEC2590"))
+    print(addr_to_mat_ptr("0x7B45E0"))
 main()
