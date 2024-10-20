@@ -72,6 +72,8 @@ def get_faces(an_obj):
                 for group in group_list:
                     if group != "f":
                         face.append(group.split("/")[0])
+                if len(group_list) == 4:
+                    face.append(group_list[3].split("/")[0])
                 face_list.append(face)
                 face_list.append([material])
     for face in face_list:
