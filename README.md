@@ -39,6 +39,7 @@ This portion will become more refined and accessible to non-technical people as 
 In the converter's main function, it opens the OBJ and does the conversions to the Sonic the Fighters 3D format. This part is completely automated, but feel free to change "out" to the name of the model that you plan to distribute. Next are the 2 addresses printed out to the screen. These contain valuable information on how to inject the model.
 
 addr_to_model_ptr takes in an address from ROM_POL and converts it to an address the pointer table in ROM_DATA will understand.
+
 addr_to_mat_ptr takes in an address from ROM_TEX and converts it to an address the pointer table in ROM_DATA will understand.
 
 The current addresses I have pre-filled, 0xEC2590 and 0x7B45E0 are both towards the end of each of these files where there's mostly garbage bytes and shouldn't affect anything in-game.
@@ -70,8 +71,11 @@ Now we can edit the pointer table.
 
 We're going to be editing the middle 2 addresses. I've already done this step, so your middle 2 addresses will be different from the picture. 
 As you may have guessed, the print statements from earlier tell us what the pointer values should be in this table.
+
 0xEC2590 becomes 6809BB00
+
 0x7B45E0 becomes F0A23D00
+
 The material comes first in the table, so we place it here:
 
 ![image](https://github.com/user-attachments/assets/aa4e7ef5-a056-4ba2-be7c-633ca897b833)
