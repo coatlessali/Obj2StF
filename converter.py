@@ -1,5 +1,6 @@
 import struct
 import os
+import json
 
 START_OP = "01040400000000000000000000000000"
 POLY_OP = "011580C8000000000000000000000000"
@@ -157,11 +158,99 @@ def addr_to_mat_ptr(address):
     address = swap_endian(address)
     return address.upper()
 
+def model_ptr_to_addr(address):
+    address = swap_endian(address)
+    address = int(address, 16)
+    address *= 4
+    address -= ROM_POL_OFFSET
+    address = hex(int(address)).replace("0x", "")
+    return address.upper()
+
+def mat_ptr_to_addr(address):
+    address = swap_endian(address)
+    address = int(address, 16)
+    address *= 2
+    address = hex(int(address)).replace("0x", "")
+    return address.upper()
+
+def read_json(in_json):
+    jsonf = open(in_json)
+    jsons = jsonf.read()
+    jsonf.close()
+    return json.loads(jsons)
+
+def rom_data_name(name):
+    map = ROM_DATA_MAP
+    for model in map["rom_data"]:
+        if model["name"] == name:
+            return model
+
+def rom_data_index(name):
+    map = ROM_DATA_MAP
+    i = 0xE0004
+    for model in map["rom_data"]:
+        if model["name"] == name:
+            return i
+        i += 16
+
+def get_property(prop_name):
+    for prop in CONFIG:
+        if prop[0] == prop_name:
+            return prop[1]
+
+def inject(rom, address, data):
+    f = open(get_property("ROM_DIR") + "\\" + rom, "r+b")
+    if "0x" in address:
+        address = int(address, 0)
+    else:
+        address = int(address, 16)
+    j = 0
+    f.seek(address)
+    for i in range(address, address + int(len(data)/2)):
+        f.write(int(data[j] + data[j+1], 16).to_bytes(1, 'big'))
+        j += 2
+    f.close()
+
+def inject_model_pointer(address, data):
+    base = rom_data_index(address)
+    base += 8
+    inject("rom_data.bin", hex(base), data)
+
+def inject_mat_pointer(address, data):
+    base = rom_data_index(address)
+    base += 4
+    inject("rom_data.bin", hex(base), data)
+
+def import_settings():
+    f = open("./config.ini")
+    s = f.read()
+    f.close()
+    s = s.replace("\r", "")
+    l = s.split("\n")
+    settings = []
+    for line in l:
+        e = line.split("=")
+        if len(e) == 2:
+            CONFIG.append([e[0].strip().upper(), e[1].strip()])
+
+CONFIG = []
+ROM_DATA_MAP = read_json("./rom_data.json")
+
 def main():
+    import_settings()
     print(f"Converting model...\n\n")
     in_obj = open_obj("./in.obj")
+    current = rom_data_name("sonic_head_idle_right")
+    print(model_ptr_to_addr(current["rom_pol"]))
+    print(mat_ptr_to_addr(current["rom_tex"]))
     out_stf = convert_obj(in_obj)
     stf_to_file(out_stf, "out")
-    print(addr_to_model_ptr("0xEC2590"))
-    print(addr_to_mat_ptr("0x7B45E0"))
+    mdl_ptr = addr_to_model_ptr("0xEC2590")
+    mat_ptr = addr_to_mat_ptr("0x7B45E0")
+    inject_model_pointer("sonic_head_idle_right", mdl_ptr)
+    inject_mat_pointer("sonic_head_idle_right", mat_ptr)
+    inject("rom_pol.bin", "0xEC2590", out_stf[0])
+    inject("rom_tex.bin", "0x7B45E0", out_stf[1])
+
+
 main()
