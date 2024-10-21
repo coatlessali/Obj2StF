@@ -22,2443 +22,2443 @@
       "address4": "11001000"
     },
     {
-      "name": "0xE0034",
+      "name": "green_ball",
       "address1": "88030800",
       "rom_tex": "00010000",
       "rom_pol": "71048000",
       "address4": "21002000"
     },
     {
-      "name": "0xE0044",
+      "name": "red_ball",
       "address1": "70040800",
       "rom_tex": "80010000",
       "rom_pol": "BC058000",
       "address4": "21002000"
     },
     {
-      "name": "0xE0054",
+      "name": "blue_ball_haha_nice",
       "address1": "58050800",
       "rom_tex": "00020000",
       "rom_pol": "07078000",
       "address4": "21002000"
     },
     {
-      "name": "0xE0064",
+      "name": "nothing",
       "address1": "40060800",
       "rom_tex": "80020000",
       "rom_pol": "52088000",
       "address4": "72007000"
     },
     {
-      "name": "0xE0074",
+      "name": "peace_hand?",
       "address1": "42060800",
       "rom_tex": "40040000",
       "rom_pol": "C70C8000",
       "address4": "72006C00"
     },
     {
-      "name": "0xE0084",
+      "name": "sonic_body",
       "address1": "A2090800",
       "rom_tex": "F0050000",
       "rom_pol": "3C118000",
       "address4": "7C007800"
     },
     {
-      "name": "0xE0094",
+      "name": "amy_head_dizzy",
       "address1": "220D0800",
       "rom_tex": "D0070000",
       "rom_pol": "15168000",
       "address4": "2A011C01"
     },
     {
-      "name": "0xE00A4",
+      "name": "nothing?",
       "address1": "92150800",
       "rom_tex": "400C0000",
       "rom_pol": "BA218000",
       "address4": "0D000C00"
     },
     {
-      "name": "0xE00B4",
+      "name": "nothing?",
       "address1": "EA150800",
       "rom_tex": "700C0000",
       "rom_pol": "3D228000",
       "address4": "0D000C00"
     },
     {
-      "name": "0xE00C4",
+      "name": "sonic_wrist_left",
       "address1": "42160800",
       "rom_tex": "A00C0000",
       "rom_pol": "C0228000",
       "address4": "15001400"
     },
     {
-      "name": "0xE00D4",
+      "name": "sonic_wrist_right",
       "address1": "DA160800",
       "rom_tex": "F00C0000",
       "rom_pol": "93238000",
       "address4": "15001400"
     },
     {
-      "name": "0xE00E4",
+      "name": "hand?",
       "address1": "72170800",
       "rom_tex": "400D0000",
       "rom_pol": "66248000",
       "address4": "73006D00"
     },
     {
-      "name": "0xE00F4",
+      "name": "sonic_hand_fist_right",
       "address1": "D61A0800",
       "rom_tex": "F40E0000",
       "rom_pol": "E5288000",
       "address4": "73006C00"
     },
     {
-      "name": "0xE0104",
+      "name": "sonic_hand_fist_left",
       "address1": "3E1E0800",
       "rom_tex": "A4100000",
       "rom_pol": "642D8000",
       "address4": "72006C00"
     },
     {
-      "name": "0xE0114",
+      "name": "sonic_knee_left",
       "address1": "9E210800",
       "rom_tex": "54120000",
       "rom_pol": "D9318000",
       "address4": "07000600"
     },
     {
-      "name": "0xE0124",
+      "name": "sonic_leg1_left",
       "address1": "D6210800",
       "rom_tex": "6C120000",
       "rom_pol": "20328000",
       "address4": "0D000C00"
     },
     {
-      "name": "0xE0134",
+      "name": "sonic_leg1_right",
       "address1": "2E220800",
       "rom_tex": "9C120000",
       "rom_pol": "A3328000",
       "address4": "0D000C00"
     },
     {
-      "name": "0xE0144",
+      "name": "sonic_leg2_left",
       "address1": "86220800",
       "rom_tex": "CC120000",
       "rom_pol": "26338000",
       "address4": "15001400"
     },
     {
-      "name": "0xE0154",
+      "name": "sonic_leg2_right",
       "address1": "1E230800",
       "rom_tex": "1C130000",
       "rom_pol": "F9338000",
       "address4": "15001400"
     },
     {
-      "name": "0xE0164",
+      "name": "sonic_foot_left",
       "address1": "B6230800",
       "rom_tex": "6C130000",
       "rom_pol": "CC348000",
       "address4": "2A002800"
     },
     {
-      "name": "0xE0174",
+      "name": "sonic_foot_right",
       "address1": "02250800",
       "rom_tex": "0C140000",
       "rom_pol": "71368000",
       "address4": "2A002800"
     },
     {
-      "name": "0xE0184",
+      "name": "sonic_ball",
       "address1": "4E260800",
       "rom_tex": "AC140000",
       "rom_pol": "16388000",
       "address4": "91019001"
     },
     {
-      "name": "0xE0194",
+      "name": "sonic_shadow_body",
       "address1": "86320800",
       "rom_tex": "EC1A0000",
       "rom_pol": "C1478000",
       "address4": "38002B00"
     },
     {
-      "name": "0xE01A4",
+      "name": "sonic_shadow_head",
       "address1": "46340800",
       "rom_tex": "981B0000",
       "rom_pol": "F2498000",
       "address4": "55004A00"
     },
     {
-      "name": "0xE01B4",
+      "name": "sonic_shadow_arm1_left",
       "address1": "BA360800",
       "rom_tex": "C01C0000",
       "rom_pol": "454D8000",
       "address4": "0A000600"
     },
     {
-      "name": "0xE01C4",
+      "name": "sonic_shadow_arm1_right",
       "address1": "02370800",
       "rom_tex": "D81C0000",
       "rom_pol": "AA4D8000",
       "address4": "0A000600"
     },
     {
-      "name": "0xE01D4",
+      "name": "sonic_shadow_arm2_left",
       "address1": "52370800",
       "rom_tex": "F01C0000",
       "rom_pol": "0F4E8000",
       "address4": "10000900"
     },
     {
-      "name": "0xE01E4",
+      "name": "sonic_shadow_arm2_right",
       "address1": "D2370800",
       "rom_tex": "141D0000",
       "rom_pol": "B04E8000",
       "address4": "10000900"
     },
     {
-      "name": "0xE01F4",
+      "name": "sonic_shadow_fist_right",
       "address1": "52380800",
       "rom_tex": "381D0000",
       "rom_pol": "514F8000",
       "address4": "15001400"
     },
     {
-      "name": "0xE0204",
+      "name": "sonic_shadow_fist_left",
       "address1": "EE380800",
       "rom_tex": "881D0000",
       "rom_pol": "24508000",
       "address4": "15001400"
     },
     {
-      "name": "0xE0214",
+      "name": "sonic_shadow_small_piece",
       "address1": "8A390800",
       "rom_tex": "D81D0000",
       "rom_pol": "F7508000",
       "address4": "07000600"
     },
     {
-      "name": "0xE0224",
+      "name": "sonic_shadow_leg1_left",
       "address1": "C2390800",
       "rom_tex": "F01D0000",
       "rom_pol": "3E518000",
       "address4": "0A000600"
     },
     {
-      "name": "0xE0234",
+      "name": "sonic_shadow_leg1_right",
       "address1": "0A3A0800",
       "rom_tex": "081E0000",
       "rom_pol": "A3518000",
       "address4": "0A000600"
     },
     {
-      "name": "0xE0244",
+      "name": "sonic_shadow_leg2_left",
       "address1": "5A3A0800",
       "rom_tex": "201E0000",
       "rom_pol": "08528000",
       "address4": "10000900"
     },
     {
-      "name": "0xE0254",
+      "name": "sonic_shadow_leg2_right",
       "address1": "DA3A0800",
       "rom_tex": "441E0000",
       "rom_pol": "A9528000",
       "address4": "10000900"
     },
     {
-      "name": "0xE0264",
+      "name": "sonic_shadow_foot_left",
       "address1": "5A3B0800",
       "rom_tex": "681E0000",
       "rom_pol": "4A538000",
       "address4": "0F000E00"
     },
     {
-      "name": "0xE0274",
+      "name": "sonic_shadow_foot_right",
       "address1": "CE3B0800",
       "rom_tex": "A01E0000",
       "rom_pol": "E1538000",
       "address4": "0F000E00"
     },
     {
-      "name": "0xE0284",
+      "name": "sonic_shadow_ball",
       "address1": "423C0800",
       "rom_tex": "D81E0000",
       "rom_pol": "78548000",
       "address4": "91019001"
     },
     {
-      "name": "0xE0294",
+      "name": "tails_body",
       "address1": "7A480800",
       "rom_tex": "18250000",
       "rom_pol": "23648000",
       "address4": "61006000"
     },
     {
-      "name": "0xE02A4",
+      "name": "tails_head",
       "address1": "524B0800",
       "rom_tex": "98260000",
       "rom_pol": "EE678000",
       "address4": "BB00B200"
     },
     {
-      "name": "0xE02B4",
+      "name": "tails_arm1_left",
       "address1": "96500800",
       "rom_tex": "60290000",
       "rom_pol": "3D6F8000",
       "address4": "0D000C00"
     },
     {
-      "name": "0xE02C4",
+      "name": "tails_arm1_right",
       "address1": "EE500800",
       "rom_tex": "90290000",
       "rom_pol": "C06F8000",
       "address4": "0D000C00"
     },
     {
-      "name": "0xE02D4",
+      "name": "tails_arm2_left",
       "address1": "46510800",
       "rom_tex": "C0290000",
       "rom_pol": "43708000",
       "address4": "15001400"
     },
     {
-      "name": "0xE02E4",
+      "name": "tails_arm2_right",
       "address1": "DE510800",
       "rom_tex": "102A0000",
       "rom_pol": "16718000",
       "address4": "15001400"
     },
     {
-      "name": "0xE02F4",
+      "name": "tails_fist_left",
       "address1": "76520800",
       "rom_tex": "602A0000",
       "rom_pol": "E9718000",
       "address4": "72006C00"
     },
     {
-      "name": "0xE0304",
+      "name": "tails_fist_right",
       "address1": "D6550800",
       "rom_tex": "102C0000",
       "rom_pol": "5E768000",
       "address4": "73006C00"
     },
     {
-      "name": "0xE0314",
+      "name": "tiny_blue_block?",
       "address1": "3E590800",
       "rom_tex": "C02D0000",
       "rom_pol": "DD7A8000",
       "address4": "07000600"
     },
     {
-      "name": "0xE0324",
+      "name": "tails_leg1_left",
       "address1": "76590800",
       "rom_tex": "D82D0000",
       "rom_pol": "247B8000",
       "address4": "0D000C00"
     },
     {
-      "name": "0xE0334",
+      "name": "tails_leg1_right",
       "address1": "CE590800",
       "rom_tex": "082E0000",
       "rom_pol": "A77B8000",
       "address4": "0D000C00"
     },
     {
-      "name": "0xE0344",
+      "name": "tails_leg2_left",
       "address1": "265A0800",
       "rom_tex": "382E0000",
       "rom_pol": "2A7C8000",
       "address4": "15001400"
     },
     {
-      "name": "0xE0354",
+      "name": "tails_leg2_right",
       "address1": "BE5A0800",
       "rom_tex": "882E0000",
       "rom_pol": "FD7C8000",
       "address4": "15001400"
     },
     {
-      "name": "0xE0364",
+      "name": "tails_foot_left",
       "address1": "565B0800",
       "rom_tex": "D82E0000",
       "rom_pol": "D07D8000",
       "address4": "1E001D00"
     },
     {
-      "name": "0xE0374",
+      "name": "tails_foot_right",
       "address1": "3E5C0800",
       "rom_tex": "4C2F0000",
       "rom_pol": "FD7E8000",
       "address4": "1E001D00"
     },
     {
-      "name": "0xE0384",
+      "name": "tails_flight_tail",
       "address1": "265D0800",
       "rom_tex": "C02F0000",
       "rom_pol": "2A808000",
       "address4": "11001000"
     },
     {
-      "name": "0xE0394",
+      "name": "tails_shadow_body",
       "address1": "9E5D0800",
       "rom_tex": "00300000",
       "rom_pol": "D5808000",
       "address4": "2A002300"
     },
     {
-      "name": "0xE03A4",
+      "name": "tails_shadow_head",
       "address1": "EE5E0800",
       "rom_tex": "8C300000",
       "rom_pol": "7A828000",
       "address4": "68005300"
     },
     {
-      "name": "0xE03B4",
+      "name": "tails_shadow_arm1_left",
       "address1": "E2610800",
       "rom_tex": "D8310000",
       "rom_pol": "8B868000",
       "address4": "0A000600"
     },
     {
-      "name": "0xE03C4",
+      "name": "tails_shadow_arm1_right",
       "address1": "2A620800",
       "rom_tex": "F0310000",
       "rom_pol": "F0868000",
       "address4": "0A000600"
     },
     {
-      "name": "0xE03D4",
+      "name": "tails_shadow_arm2_left",
       "address1": "7A620800",
       "rom_tex": "08320000",
       "rom_pol": "55878000",
       "address4": "10000900"
     },
     {
-      "name": "0xE03E4",
+      "name": "tails_shadow_arm2_right",
       "address1": "FA620800",
       "rom_tex": "2C320000",
       "rom_pol": "F6878000",
       "address4": "10000900"
     },
     {
-      "name": "0xE03F4",
+      "name": "tails_shadow_fist_left",
       "address1": "7A630800",
       "rom_tex": "50320000",
       "rom_pol": "97888000",
       "address4": "15001400"
     },
     {
-      "name": "0xE0404",
+      "name": "tails_shadow_fist_right",
       "address1": "16640800",
       "rom_tex": "A0320000",
       "rom_pol": "6A898000",
       "address4": "15001400"
     },
     {
-      "name": "0xE0414",
+      "name": "tiny_black_cube",
       "address1": "B2640800",
       "rom_tex": "F0320000",
       "rom_pol": "3D8A8000",
       "address4": "07000600"
     },
     {
-      "name": "0xE0424",
+      "name": "tails_shadow_leg1_left",
       "address1": "EA640800",
       "rom_tex": "08330000",
       "rom_pol": "848A8000",
       "address4": "0A000600"
     },
     {
-      "name": "0xE0434",
+      "name": "tails_shadow_leg1_right",
       "address1": "32650800",
       "rom_tex": "20330000",
       "rom_pol": "E98A8000",
       "address4": "0A000600"
     },
     {
-      "name": "0xE0444",
+      "name": "tails_shadow_leg2_left",
       "address1": "82650800",
       "rom_tex": "38330000",
       "rom_pol": "4E8B8000",
       "address4": "0A000600"
     },
     {
-      "name": "0xE0454",
+      "name": "tails_shadow_leg2_right",
       "address1": "D2650800",
       "rom_tex": "50330000",
       "rom_pol": "B38B8000",
       "address4": "0A000600"
     },
     {
-      "name": "0xE0464",
+      "name": "tails_shadow_foot_left",
       "address1": "1A660800",
       "rom_tex": "68330000",
       "rom_pol": "188C8000",
       "address4": "0F000E00"
     },
     {
-      "name": "0xE0474",
+      "name": "tails_shadow_foot_right",
       "address1": "8E660800",
       "rom_tex": "A0330000",
       "rom_pol": "AF8C8000",
       "address4": "0F000E00"
     },
     {
-      "name": "0xE0484",
+      "name": "tails_shadow_flight_tail",
       "address1": "02670800",
       "rom_tex": "D8330000",
       "rom_pol": "468D8000",
       "address4": "11001000"
     },
     {
-      "name": "0xE0494",
+      "name": "red_sprites?",
       "address1": "7A670800",
       "rom_tex": "18340000",
       "rom_pol": "F18D8000",
       "address4": "02000100"
     },
     {
-      "name": "0xE04A4",
+      "name": "nothing?",
       "address1": "8A670800",
       "rom_tex": "1C340000",
       "rom_pol": "068E8000",
       "address4": "0A000900"
     },
     {
-      "name": "0xE04B4",
+      "name": "peace_hand_right?",
       "address1": "D8670800",
       "rom_tex": "40340000",
       "rom_pol": "6B8E8000",
       "address4": "73006C00"
     },
     {
-      "name": "0xE04C4",
+      "name": "fang_body",
       "address1": "406B0800",
       "rom_tex": "F0350000",
       "rom_pol": "EA928000",
       "address4": "FB00F000"
     },
     {
-      "name": "0xE04D4",
+      "name": "fang_body_with_arm",
       "address1": "88720800",
       "rom_tex": "B0390000",
       "rom_pol": "B99C8000",
       "address4": "FC00F000"
     },
     {
-      "name": "0xE04E4",
+      "name": "waterfall_sprite_sheet",
       "address1": "D8790800",
       "rom_tex": "703D0000",
       "rom_pol": "92A68000",
       "address4": "49004200"
     },
     {
-      "name": "0xE04F4",
+      "name": "space_garbage1",
       "address1": "187C0800",
       "rom_tex": "783E0000",
       "rom_pol": "6DA98000",
       "address4": "A0009800"
     },
     {
-      "name": "0xE0504",
+      "name": "rubble1",
       "address1": "98800800",
       "rom_tex": "D8400000",
       "rom_pol": "AEAF8000",
       "address4": "5C005600"
     },
     {
-      "name": "0xE0514",
+      "name": "nothing?",
       "address1": "50830800",
       "rom_tex": "30420000",
       "rom_pol": "47B38000",
       "address4": "02000100"
     },
     {
-      "name": "0xE0524",
+      "name": "nothing?",
       "address1": "60830800",
       "rom_tex": "34420000",
       "rom_pol": "5CB38000",
       "address4": "02000100"
     },
     {
-      "name": "0xE0534",
+      "name": "nothing?",
       "address1": "70830800",
       "rom_tex": "38420000",
       "rom_pol": "71B38000",
       "address4": "02000100"
     },
     {
-      "name": "0xE0544",
+      "name": "nothing?",
       "address1": "80830800",
       "rom_tex": "3C420000",
       "rom_pol": "86B38000",
       "address4": "02000100"
     },
     {
-      "name": "0xE0554",
+      "name": "nothing?",
       "address1": "90830800",
       "rom_tex": "40420000",
       "rom_pol": "9BB38000",
       "address4": "02000100"
     },
     {
-      "name": "0xE0564",
+      "name": "nothing?",
       "address1": "A0830800",
       "rom_tex": "44420000",
       "rom_pol": "B0B38000",
       "address4": "02000100"
     },
     {
-      "name": "0xE0574",
+      "name": "nothing?",
       "address1": "B0830800",
       "rom_tex": "48420000",
       "rom_pol": "C5B38000",
       "address4": "02000100"
     },
     {
-      "name": "0xE0584",
+      "name": "nothing?",
       "address1": "C0830800",
       "rom_tex": "4C420000",
       "rom_pol": "DAB38000",
       "address4": "02000100"
     },
     {
-      "name": "0xE0594",
+      "name": "yellow_fist_left?",
       "address1": "D0830800",
       "rom_tex": "50420000",
       "rom_pol": "EFB38000",
       "address4": "72006C00"
     },
     {
-      "name": "0xE05A4",
+      "name": "yellow_fist_right?",
       "address1": "30870800",
       "rom_tex": "00440000",
       "rom_pol": "64B88000",
       "address4": "73006C00"
     },
     {
-      "name": "0xE05B4",
+      "name": "amy_hammer1",
       "address1": "988A0800",
       "rom_tex": "B0450000",
       "rom_pol": "E3BC8000",
       "address4": "50004C00"
     },
     {
-      "name": "0xE05C4",
+      "name": "amy_hammer_hand1_left",
       "address1": "188D0800",
       "rom_tex": "E0460000",
       "rom_pol": "04C08000",
       "address4": "A900A200"
     },
     {
-      "name": "0xE05D4",
+      "name": "amy_hammer_hand1_right",
       "address1": "3C920800",
       "rom_tex": "68490000",
       "rom_pol": "9FC68000",
       "address4": "AB00A200"
     },
     {
-      "name": "0xE05E4",
+      "name": "amy_hammer_hand2_left",
       "address1": "70970800",
       "rom_tex": "F04B0000",
       "rom_pol": "4ECD8000",
       "address4": "98009300"
     },
     {
-      "name": "0xE05F4",
+      "name": "amy_hammer_hand2_right",
       "address1": "009C0800",
       "rom_tex": "3C4E0000",
       "rom_pol": "3FD38000",
       "address4": "9B009300"
     },
     {
-      "name": "0xE0604",
+      "name": "nothing?",
       "address1": "A8A00800",
       "rom_tex": "88500000",
       "rom_pol": "4ED98000",
       "address4": "02000100"
     },
     {
-      "name": "0xE0614",
+      "name": "face_sprite_sheet?",
       "address1": "B8A00800",
       "rom_tex": "8C500000",
       "rom_pol": "63D98000",
       "address4": "02000100"
     },
     {
-      "name": "0xE0624",
+      "name": "brown_face_sheet?",
       "address1": "C8A00800",
       "rom_tex": "90500000",
       "rom_pol": "78D98000",
       "address4": "0B000A00"
     },
     {
-      "name": "0xE0634",
+      "name": "white_face_sheet?",
       "address1": "20A10800",
       "rom_tex": "B8500000",
       "rom_pol": "E7D98000",
       "address4": "65006400"
     },
     {
-      "name": "0xE0644",
+      "name": "nothing?",
       "address1": "38A40800",
       "rom_tex": "48520000",
       "rom_pol": "DADD8000",
       "address4": "02000100"
     },
     {
-      "name": "0xE0654",
+      "name": "nothing?",
       "address1": "48A40800",
       "rom_tex": "4C520000",
       "rom_pol": "EFDD8000",
       "address4": "02000100"
     },
     {
-      "name": "0xE0664",
+      "name": "brown_sprite_sheet2?",
       "address1": "58A40800",
       "rom_tex": "50520000",
       "rom_pol": "04DE8000",
       "address4": "02000100"
     },
     {
-      "name": "0xE0674",
+      "name": "brown_face_sprite_cube?",
       "address1": "68A40800",
       "rom_tex": "54520000",
       "rom_pol": "19DE8000",
       "address4": "0B000A00"
     },
     {
-      "name": "0xE0684",
+      "name": "tan_face_sprite_cube?",
       "address1": "C0A40800",
       "rom_tex": "7C520000",
       "rom_pol": "88DE8000",
       "address4": "65006400"
     },
     {
-      "name": "0xE0694",
+      "name": "sprite_sheet?",
       "address1": "D8A70800",
       "rom_tex": "0C540000",
       "rom_pol": "7BE28000",
       "address4": "02000100"
     },
     {
-      "name": "0xE06A4",
+      "name": "sprite_sheet?",
       "address1": "E8A70800",
       "rom_tex": "10540000",
       "rom_pol": "90E28000",
       "address4": "02000100"
     },
     {
-      "name": "0xE06B4",
+      "name": "amy_hammer_hand3_left",
       "address1": "F8A70800",
       "rom_tex": "14540000",
       "rom_pol": "A5E28000",
       "address4": "8F008A00"
     },
     {
-      "name": "0xE06C4",
+      "name": "tails_tail1",
       "address1": "34AC0800",
       "rom_tex": "3C560000",
       "rom_pol": "3CE88000",
       "address4": "25002400"
     },
     {
-      "name": "0xE06D4",
+      "name": "tails_tail2",
       "address1": "4CAD0800",
       "rom_tex": "CC560000",
       "rom_pol": "AFE98000",
       "address4": "25002400"
     },
     {
-      "name": "0xE06E4",
+      "name": "tails_tail3",
       "address1": "64AE0800",
       "rom_tex": "5C570000",
       "rom_pol": "22EB8000",
       "address4": "25002400"
     },
     {
-      "name": "0xE06F4",
+      "name": "tails_tail4",
       "address1": "7CAF0800",
       "rom_tex": "EC570000",
       "rom_pol": "95EC8000",
       "address4": "25002400"
     },
     {
-      "name": "0xE0704",
+      "name": "tails_tail5",
       "address1": "94B00800",
       "rom_tex": "7C580000",
       "rom_pol": "08EE8000",
       "address4": "25002400"
     },
     {
-      "name": "0xE0714",
+      "name": "tails_tail6",
       "address1": "ACB10800",
       "rom_tex": "0C590000",
       "rom_pol": "7BEF8000",
       "address4": "25002400"
     },
     {
-      "name": "0xE0724",
+      "name": "tails_tail7",
       "address1": "C4B20800",
       "rom_tex": "9C590000",
       "rom_pol": "EEF08000",
       "address4": "25002400"
     },
     {
-      "name": "0xE0734",
+      "name": "tails_tail8",
       "address1": "DCB30800",
       "rom_tex": "2C5A0000",
       "rom_pol": "61F28000",
       "address4": "25002400"
     },
     {
-      "name": "0xE0744",
+      "name": "tails_tail9",
       "address1": "F4B40800",
       "rom_tex": "BC5A0000",
       "rom_pol": "D4F38000",
       "address4": "25002400"
     },
     {
-      "name": "0xE0754",
+      "name": "tails_tail10",
       "address1": "0CB60800",
       "rom_tex": "4C5B0000",
       "rom_pol": "47F58000",
       "address4": "25002400"
     },
     {
-      "name": "0xE0764",
+      "name": "tails_tail11",
       "address1": "24B70800",
       "rom_tex": "DC5B0000",
       "rom_pol": "BAF68000",
       "address4": "25002400"
     },
     {
-      "name": "0xE0774",
+      "name": "tails_tail12",
       "address1": "3CB80800",
       "rom_tex": "6C5C0000",
       "rom_pol": "2DF88000",
       "address4": "25002400"
     },
     {
-      "name": "0xE0784",
+      "name": "tails_tail13",
       "address1": "54B90800",
       "rom_tex": "FC5C0000",
       "rom_pol": "A0F98000",
       "address4": "25002400"
     },
     {
-      "name": "0xE0794",
+      "name": "tails_tail14",
       "address1": "6CBA0800",
       "rom_tex": "8C5D0000",
       "rom_pol": "13FB8000",
       "address4": "25002400"
     },
     {
-      "name": "0xE07A4",
+      "name": "tails_tail15",
       "address1": "84BB0800",
       "rom_tex": "1C5E0000",
       "rom_pol": "86FC8000",
       "address4": "25002400"
     },
     {
-      "name": "0xE07B4",
+      "name": "tails_tail16",
       "address1": "9CBC0800",
       "rom_tex": "AC5E0000",
       "rom_pol": "F9FD8000",
       "address4": "25002400"
     },
     {
-      "name": "0xE07C4",
+      "name": "tails_tail17",
       "address1": "B4BD0800",
       "rom_tex": "3C5F0000",
       "rom_pol": "6CFF8000",
       "address4": "25002400"
     },
     {
-      "name": "0xE07D4",
+      "name": "tails_tail18",
       "address1": "CCBE0800",
       "rom_tex": "CC5F0000",
       "rom_pol": "DF008100",
       "address4": "25002400"
     },
     {
-      "name": "0xE07E4",
+      "name": "tails_tail19",
       "address1": "E4BF0800",
       "rom_tex": "5C600000",
       "rom_pol": "52028100",
       "address4": "25002400"
     },
     {
-      "name": "0xE07F4",
+      "name": "tails_tail20",
       "address1": "FCC00800",
       "rom_tex": "EC600000",
       "rom_pol": "C5038100",
       "address4": "25002400"
     },
     {
-      "name": "0xE0804",
+      "name": "tails_tail21",
       "address1": "14C20800",
       "rom_tex": "7C610000",
       "rom_pol": "38058100",
       "address4": "25002400"
     },
     {
-      "name": "0xE0814",
+      "name": "tails_tail22",
       "address1": "2CC30800",
       "rom_tex": "0C620000",
       "rom_pol": "AB068100",
       "address4": "25002400"
     },
     {
-      "name": "0xE0824",
+      "name": "tails_tail23",
       "address1": "44C40800",
       "rom_tex": "9C620000",
       "rom_pol": "1E088100",
       "address4": "25002400"
     },
     {
-      "name": "0xE0834",
+      "name": "tails_tail24",
       "address1": "5CC50800",
       "rom_tex": "2C630000",
       "rom_pol": "91098100",
       "address4": "25002400"
     },
     {
-      "name": "0xE0844",
+      "name": "tails_tail25",
       "address1": "74C60800",
       "rom_tex": "BC630000",
       "rom_pol": "040B8100",
       "address4": "25002400"
     },
     {
-      "name": "0xE0854",
+      "name": "tails_tail26",
       "address1": "8CC70800",
       "rom_tex": "4C640000",
       "rom_pol": "770C8100",
       "address4": "25002400"
     },
     {
-      "name": "0xE0864",
+      "name": "tails_tail27",
       "address1": "A4C80800",
       "rom_tex": "DC640000",
       "rom_pol": "EA0D8100",
       "address4": "25002400"
     },
     {
-      "name": "0xE0874",
+      "name": "tails_tail28",
       "address1": "BCC90800",
       "rom_tex": "6C650000",
       "rom_pol": "5D0F8100",
       "address4": "25002400"
     },
     {
-      "name": "0xE0884",
+      "name": "tails_tail29",
       "address1": "D4CA0800",
       "rom_tex": "FC650000",
       "rom_pol": "D0108100",
       "address4": "25002400"
     },
     {
-      "name": "0xE0894",
+      "name": "tails_tail30",
       "address1": "ECCB0800",
       "rom_tex": "8C660000",
       "rom_pol": "43128100",
       "address4": "25002400"
     },
     {
-      "name": "0xE08A4",
+      "name": "tails_tail31",
       "address1": "04CD0800",
       "rom_tex": "1C670000",
       "rom_pol": "B6138100",
       "address4": "25002400"
     },
     {
-      "name": "0xE08B4",
+      "name": "tails_tail32",
       "address1": "1CCE0800",
       "rom_tex": "AC670000",
       "rom_pol": "29158100",
       "address4": "25002400"
     },
     {
-      "name": "0xE08C4",
+      "name": "tails_tail33",
       "address1": "34CF0800",
       "rom_tex": "3C680000",
       "rom_pol": "9C168100",
       "address4": "25002400"
     },
     {
-      "name": "0xE08D4",
+      "name": "tails_tail34",
       "address1": "4CD00800",
       "rom_tex": "CC680000",
       "rom_pol": "0F188100",
       "address4": "25002400"
     },
     {
-      "name": "0xE08E4",
+      "name": "tails_tail35",
       "address1": "64D10800",
       "rom_tex": "5C690000",
       "rom_pol": "82198100",
       "address4": "25002400"
     },
     {
-      "name": "0xE08F4",
+      "name": "tails_tail36",
       "address1": "7CD20800",
       "rom_tex": "EC690000",
       "rom_pol": "F51A8100",
       "address4": "25002400"
     },
     {
-      "name": "0xE0904",
+      "name": "tails_tail37",
       "address1": "94D30800",
       "rom_tex": "7C6A0000",
       "rom_pol": "681C8100",
       "address4": "25002400"
     },
     {
-      "name": "0xE0914",
+      "name": "tails_tail38",
       "address1": "ACD40800",
       "rom_tex": "0C6B0000",
       "rom_pol": "DB1D8100",
       "address4": "25002400"
     },
     {
-      "name": "0xE0924",
+      "name": "tails_tail39",
       "address1": "C4D50800",
       "rom_tex": "9C6B0000",
       "rom_pol": "4E1F8100",
       "address4": "25002400"
     },
     {
-      "name": "0xE0934",
+      "name": "tails_tail40",
       "address1": "DCD60800",
       "rom_tex": "2C6C0000",
       "rom_pol": "C1208100",
       "address4": "25002400"
     },
     {
-      "name": "0xE0944",
+      "name": "tails_tail41",
       "address1": "F4D70800",
       "rom_tex": "BC6C0000",
       "rom_pol": "34228100",
       "address4": "25002400"
     },
     {
-      "name": "0xE0954",
+      "name": "tails_tail42",
       "address1": "0CD90800",
       "rom_tex": "4C6D0000",
       "rom_pol": "A7238100",
       "address4": "25002400"
     },
     {
-      "name": "0xE0964",
+      "name": "tails_tail43",
       "address1": "24DA0800",
       "rom_tex": "DC6D0000",
       "rom_pol": "1A258100",
       "address4": "25002400"
     },
     {
-      "name": "0xE0974",
+      "name": "tails_tail44",
       "address1": "3CDB0800",
       "rom_tex": "6C6E0000",
       "rom_pol": "8D268100",
       "address4": "25002400"
     },
     {
-      "name": "0xE0984",
+      "name": "tails_tail45",
       "address1": "54DC0800",
       "rom_tex": "FC6E0000",
       "rom_pol": "00288100",
       "address4": "25002400"
     },
     {
-      "name": "0xE0994",
+      "name": "tails_tail46",
       "address1": "6CDD0800",
       "rom_tex": "8C6F0000",
       "rom_pol": "73298100",
       "address4": "25002400"
     },
     {
-      "name": "0xE09A4",
+      "name": "tails_tail47",
       "address1": "84DE0800",
       "rom_tex": "1C700000",
       "rom_pol": "E62A8100",
       "address4": "25002400"
     },
     {
-      "name": "0xE09B4",
+      "name": "tails_tail48",
       "address1": "9CDF0800",
       "rom_tex": "AC700000",
       "rom_pol": "592C8100",
       "address4": "25002400"
     },
     {
-      "name": "0xE09C4",
+      "name": "tails_tail49",
       "address1": "B4E00800",
       "rom_tex": "3C710000",
       "rom_pol": "CC2D8100",
       "address4": "25002400"
     },
     {
-      "name": "0xE09D4",
+      "name": "tails_tail50",
       "address1": "CCE10800",
       "rom_tex": "CC710000",
       "rom_pol": "3F2F8100",
       "address4": "25002400"
     },
     {
-      "name": "0xE09E4",
+      "name": "tails_tail51",
       "address1": "E4E20800",
       "rom_tex": "5C720000",
       "rom_pol": "B2308100",
       "address4": "25002400"
     },
     {
-      "name": "0xE09F4",
+      "name": "tails_tail52",
       "address1": "FCE30800",
       "rom_tex": "EC720000",
       "rom_pol": "25328100",
       "address4": "25002400"
     },
     {
-      "name": "0xE0A04",
+      "name": "tails_tail53",
       "address1": "14E50800",
       "rom_tex": "7C730000",
       "rom_pol": "98338100",
       "address4": "25002400"
     },
     {
-      "name": "0xE0A14",
+      "name": "tails_tail54",
       "address1": "2CE60800",
       "rom_tex": "0C740000",
       "rom_pol": "0B358100",
       "address4": "25002400"
     },
     {
-      "name": "0xE0A24",
+      "name": "tails_tail55",
       "address1": "44E70800",
       "rom_tex": "9C740000",
       "rom_pol": "7E368100",
       "address4": "25002400"
     },
     {
-      "name": "0xE0A34",
+      "name": "tails_tail56",
       "address1": "5CE80800",
       "rom_tex": "2C750000",
       "rom_pol": "F1378100",
       "address4": "25002400"
     },
     {
-      "name": "0xE0A44",
+      "name": "tails_tail57",
       "address1": "74E90800",
       "rom_tex": "BC750000",
       "rom_pol": "64398100",
       "address4": "25002400"
     },
     {
-      "name": "0xE0A54",
+      "name": "tails_tail58",
       "address1": "8CEA0800",
       "rom_tex": "4C760000",
       "rom_pol": "D73A8100",
       "address4": "25002400"
     },
     {
-      "name": "0xE0A64",
+      "name": "tails_tail59",
       "address1": "A4EB0800",
       "rom_tex": "DC760000",
       "rom_pol": "4A3C8100",
       "address4": "25002400"
     },
     {
-      "name": "0xE0A74",
+      "name": "tails_tail60",
       "address1": "BCEC0800",
       "rom_tex": "6C770000",
       "rom_pol": "BD3D8100",
       "address4": "25002400"
     },
     {
-      "name": "0xE0A84",
+      "name": "tails_tail61",
       "address1": "D4ED0800",
       "rom_tex": "FC770000",
       "rom_pol": "303F8100",
       "address4": "25002400"
     },
     {
-      "name": "0xE0A94",
+      "name": "tails_tail62",
       "address1": "ECEE0800",
       "rom_tex": "8C780000",
       "rom_pol": "A3408100",
       "address4": "25002400"
     },
     {
-      "name": "0xE0AA4",
+      "name": "tails_tail63",
       "address1": "04F00800",
       "rom_tex": "1C790000",
       "rom_pol": "16428100",
       "address4": "25002400"
     },
     {
-      "name": "0xE0AB4",
+      "name": "tails_tail64",
       "address1": "1CF10800",
       "rom_tex": "AC790000",
       "rom_pol": "89438100",
       "address4": "25002400"
     },
     {
-      "name": "0xE0AC4",
+      "name": "tiny_blue_cube?",
       "address1": "34F20800",
       "rom_tex": "3C7A0000",
       "rom_pol": "FC448100",
       "address4": "07000600"
     },
     {
-      "name": "0xE0AD4",
+      "name": "yellow_hand_open_left?",
       "address1": "6CF20800",
       "rom_tex": "547A0000",
       "rom_pol": "43458100",
       "address4": "72006C00"
     },
     {
-      "name": "0xE0AE4",
+      "name": "yellow_hand_open_right?",
       "address1": "CCF50800",
       "rom_tex": "047C0000",
       "rom_pol": "B8498100",
       "address4": "73006C00"
     },
     {
-      "name": "0xE0AF4",
+      "name": "nothing?",
       "address1": "34F90800",
       "rom_tex": "B47D0000",
       "rom_pol": "374E8100",
       "address4": "00000000"
     },
     {
-      "name": "0xE0B04",
+      "name": "nothing?",
       "address1": "3CF90800",
       "rom_tex": "B87D0000",
       "rom_pol": "4C4E8100",
       "address4": "00000000"
     },
     {
-      "name": "0xE0B14",
+      "name": "level_texture_atlas",
       "address1": "44F90800",
       "rom_tex": "BC7D0000",
       "rom_pol": "614E8100",
       "address4": "11001000"
     },
     {
-      "name": "0xE0B24",
+      "name": "nothing?",
       "address1": "CCF90800",
       "rom_tex": "FC7D0000",
       "rom_pol": "0C4F8100",
       "address4": "00000000"
     },
     {
-      "name": "0xE0B34",
+      "name": "nothing?",
       "address1": "D4F90800",
       "rom_tex": "007E0000",
       "rom_pol": "214F8100",
       "address4": "00000000"
     },
     {
-      "name": "0xE0B44",
+      "name": "nothing?",
       "address1": "DCF90800",
       "rom_tex": "047E0000",
       "rom_pol": "364F8100",
       "address4": "00000000"
     },
     {
-      "name": "0xE0B54",
+      "name": "nothing?",
       "address1": "E4F90800",
       "rom_tex": "087E0000",
       "rom_pol": "4B4F8100",
       "address4": "04000200"
     },
     {
-      "name": "0xE0B64",
+      "name": "nothing?",
       "address1": "FCF90800",
       "rom_tex": "107E0000",
       "rom_pol": "744F8100",
       "address4": "00000000"
     },
     {
-      "name": "0xE0B74",
+      "name": "nothing?",
       "address1": "04FA0800",
       "rom_tex": "147E0000",
       "rom_pol": "894F8100",
       "address4": "44003F00"
     },
     {
-      "name": "0xE0B84",
+      "name": "nothing?",
       "address1": "1CFC0800",
       "rom_tex": "107F0000",
       "rom_pol": "32528100",
       "address4": "00000000"
     },
     {
-      "name": "0xE0B94",
+      "name": "nothing?",
       "address1": "24FC0800",
       "rom_tex": "147F0000",
       "rom_pol": "47528100",
       "address4": "00000000"
     },
     {
-      "name": "0xE0BA4",
+      "name": "nothing?",
       "address1": "2CFC0800",
       "rom_tex": "187F0000",
       "rom_pol": "5C528100",
       "address4": "00000000"
     },
     {
-      "name": "0xE0BB4",
+      "name": "nothing?",
       "address1": "34FC0800",
       "rom_tex": "1C7F0000",
       "rom_pol": "71528100",
       "address4": "70006300"
     },
     {
-      "name": "0xE0BC4",
+      "name": "nothing?",
       "address1": "A4FF0800",
       "rom_tex": "A8800000",
       "rom_pol": "D2568100",
       "address4": "2F002000"
     },
     {
-      "name": "0xE0BD4",
+      "name": "nothing?",
       "address1": "14010900",
       "rom_tex": "28810000",
       "rom_pol": "A9588100",
       "address4": "00000000"
     },
     {
-      "name": "0xE0BE4",
+      "name": "nothing?",
       "address1": "1C010900",
       "rom_tex": "2C810000",
       "rom_pol": "BE588100",
       "address4": "00000000"
     },
     {
-      "name": "0xE0BF4",
+      "name": "nothing?",
       "address1": "24010900",
       "rom_tex": "30810000",
       "rom_pol": "D3588100",
       "address4": "00000000"
     },
     {
-      "name": "0xE0C04",
+      "name": "nothing?",
       "address1": "2C010900",
       "rom_tex": "34810000",
       "rom_pol": "E8588100",
       "address4": "00000000"
     },
     {
-      "name": "0xE0C14",
+      "name": "nothing?",
       "address1": "34010900",
       "rom_tex": "38810000",
       "rom_pol": "FD588100",
       "address4": "00000000"
     },
     {
-      "name": "0xE0C24",
+      "name": "casino_floor",
       "address1": "3C010900",
       "rom_tex": "3C810000",
       "rom_pol": "12598100",
       "address4": "0B01BE00"
     },
     {
-      "name": "0xE0C34",
+      "name": "drill",
       "address1": "50090900",
       "rom_tex": "34840000",
       "rom_pol": "81638100",
       "address4": "A900A800"
     },
     {
-      "name": "0xE0C44",
+      "name": "blue_ball?",
       "address1": "780E0900",
       "rom_tex": "D4860000",
       "rom_pol": "1C6A8100",
       "address4": "01020002"
     },
     {
-      "name": "0xE0C54",
+      "name": "bean_head_shocked",
       "address1": "001E0900",
       "rom_tex": "D48E0000",
       "rom_pol": "277E8100",
       "address4": "0D01FE00"
     },
     {
-      "name": "0xE0C64",
+      "name": "bean_eye_left_closed",
       "address1": "AC250900",
       "rom_tex": "CC920000",
       "rom_pol": "AA888100",
       "address4": "11000F00"
     },
     {
-      "name": "0xE0C74",
+      "name": "bean_eye_right_closed",
       "address1": "2E260900",
       "rom_tex": "08930000",
       "rom_pol": "55898100",
       "address4": "11000F00"
     },
     {
-      "name": "0xE0C84",
+      "name": "bean_eye_left",
       "address1": "B0260900",
       "rom_tex": "44930000",
       "rom_pol": "008A8100",
       "address4": "11000F00"
     },
     {
-      "name": "0xE0C94",
+      "name": "bean_eye_right",
       "address1": "32270900",
       "rom_tex": "80930000",
       "rom_pol": "AB8A8100",
       "address4": "11000F00"
     },
     {
-      "name": "0xE0CA4",
+      "name": "tails_head_hurt",
       "address1": "B4270900",
       "rom_tex": "BC930000",
       "rom_pol": "568B8100",
       "address4": "E300D600"
     },
     {
-      "name": "0xE0CB4",
+      "name": "tails_eye_left_closed",
       "address1": "2C2E0900",
       "rom_tex": "14970000",
       "rom_pol": "35948100",
       "address4": "0A000900"
     },
     {
-      "name": "0xE0CC4",
+      "name": "tails_eye_right_closed",
       "address1": "7C2E0900",
       "rom_tex": "38970000",
       "rom_pol": "9A948100",
       "address4": "0A000900"
     },
     {
-      "name": "0xE0CD4",
+      "name": "tails_eye_left",
       "address1": "CC2E0900",
       "rom_tex": "5C970000",
       "rom_pol": "FF948100",
       "address4": "0A000900"
     },
     {
-      "name": "0xE0CE4",
+      "name": "tails_eye_right",
       "address1": "1C2F0900",
       "rom_tex": "80970000",
       "rom_pol": "64958100",
       "address4": "0A000900"
     },
     {
-      "name": "0xE0CF4",
+      "name": "nothing?",
       "address1": "6C2F0900",
       "rom_tex": "A4970000",
       "rom_pol": "C9958100",
       "address4": "0A000900"
     },
     {
-      "name": "0xE0D04",
+      "name": "nothing?",
       "address1": "BC2F0900",
       "rom_tex": "C8970000",
       "rom_pol": "2E968100",
       "address4": "0A000900"
     },
     {
-      "name": "0xE0D14",
+      "name": "tails_eye_left2",
       "address1": "0C300900",
       "rom_tex": "EC970000",
       "rom_pol": "93968100",
       "address4": "0A000900"
     },
     {
-      "name": "0xE0D24",
+      "name": "tails_eye_right2",
       "address1": "5C300900",
       "rom_tex": "10980000",
       "rom_pol": "F8968100",
       "address4": "0A000900"
     },
     {
-      "name": "0xE0D34",
+      "name": "star",
       "address1": "AC300900",
       "rom_tex": "34980000",
       "rom_pol": "5D978100",
       "address4": "1A001800"
     },
     {
-      "name": "0xE0D44",
+      "name": "nothing?",
       "address1": "64310900",
       "rom_tex": "94980000",
       "rom_pol": "62988100",
       "address4": "06000400"
     },
     {
-      "name": "0xE0D54",
+      "name": "amy_hammer_hand_knuckles_right",
       "address1": "94310900",
       "rom_tex": "A4980000",
       "rom_pol": "9F988100",
       "address4": "8F008A00"
     },
     {
-      "name": "0xE0D64",
+      "name": "wrist_shadow?",
       "address1": "D0350900",
       "rom_tex": "CC9A0000",
       "rom_pol": "369E8100",
       "address4": "0F000D00"
     },
     {
-      "name": "0xE0D74",
+      "name": "shadow?",
       "address1": "44360900",
       "rom_tex": "009B0000",
       "rom_pol": "CD9E8100",
       "address4": "0A000900"
     },
     {
-      "name": "0xE0D84",
+      "name": "shadow?",
       "address1": "94360900",
       "rom_tex": "249B0000",
       "rom_pol": "329F8100",
       "address4": "0A000900"
     },
     {
-      "name": "0xE0D94",
+      "name": "eye_left?",
       "address1": "E4360900",
       "rom_tex": "489B0000",
       "rom_pol": "979F8100",
       "address4": "11000F00"
     },
     {
-      "name": "0xE0DA4",
+      "name": "eye_right?",
       "address1": "66370900",
       "rom_tex": "849B0000",
       "rom_pol": "42A08100",
       "address4": "11000F00"
     },
     {
-      "name": "0xE0DB4",
+      "name": "nothing?",
       "address1": "E8370900",
       "rom_tex": "C09B0000",
       "rom_pol": "EDA08100",
       "address4": "21001E00"
     },
     {
-      "name": "0xE0DC4",
+      "name": "metal_sonic_laser_sheet1",
       "address1": "E4380900",
       "rom_tex": "389C0000",
       "rom_pol": "38A28100",
       "address4": "18001600"
     },
     {
-      "name": "0xE0DD4",
+      "name": "metal_sonic_laser_sheet2",
       "address1": "A0390900",
       "rom_tex": "909C0000",
       "rom_pol": "29A38100",
       "address4": "06000500"
     },
     {
-      "name": "0xE0DE4",
+      "name": "metal_sonic_laser_sheet3",
       "address1": "D0390900",
       "rom_tex": "A49C0000",
       "rom_pol": "66A38100",
       "address4": "0A000900"
     },
     {
-      "name": "0xE0DF4",
+      "name": "half_egg_ball?",
       "address1": "1A3A0900",
       "rom_tex": "C89C0000",
       "rom_pol": "CBA38100",
       "address4": "6E006B00"
     },
     {
-      "name": "0xE0E04",
+      "name": "green_hill_island1",
       "address1": "663D0900",
       "rom_tex": "749E0000",
       "rom_pol": "18A88100",
       "address4": "34003200"
     },
     {
-      "name": "0xE0E14",
+      "name": "nothing?",
       "address1": "D23E0900",
       "rom_tex": "3C9F0000",
       "rom_pol": "21AA8100",
       "address4": "05000400"
     },
     {
-      "name": "0xE0E24",
+      "name": "nothing?",
       "address1": "F83E0900",
       "rom_tex": "4C9F0000",
       "rom_pol": "54AA8100",
       "address4": "04000300"
     },
     {
-      "name": "0xE0E34",
+      "name": "nothing?",
       "address1": "183F0900",
       "rom_tex": "589F0000",
       "rom_pol": "7DAA8100",
       "address4": "1C001A00"
     },
     {
-      "name": "0xE0E44",
+      "name": "purple_question_mark",
       "address1": "F83F0900",
       "rom_tex": "C09F0000",
       "rom_pol": "96AB8100",
       "address4": "36003400"
     },
     {
-      "name": "0xE0E54",
+      "name": "angry_thought_bubble",
       "address1": "A8410900",
       "rom_tex": "90A00000",
       "rom_pol": "B3AD8100",
       "address4": "33003000"
     },
     {
-      "name": "0xE0E64",
+      "name": "tails_rocket",
       "address1": "00430900",
       "rom_tex": "50A10000",
       "rom_pol": "B2AF8100",
       "address4": "0A03F702"
     },
     {
-      "name": "0xE0E74",
+      "name": "spaceship_glass",
       "address1": "6C590900",
       "rom_tex": "2CAD0000",
       "rom_pol": "17CE8100",
       "address4": "4C004A00"
     },
     {
-      "name": "0xE0E84",
+      "name": "tails_shadow?",
       "address1": "9C5B0900",
       "rom_tex": "54AE0000",
       "rom_pol": "10D18100",
       "address4": "14001200"
     },
     {
-      "name": "0xE0E94",
+      "name": "tails_shadow?",
       "address1": "385C0900",
       "rom_tex": "9CAE0000",
       "rom_pol": "D9D18100",
       "address4": "14001200"
     },
     {
-      "name": "0xE0EA4",
+      "name": "amy_shadow_arm2?",
       "address1": "D45C0900",
       "rom_tex": "E4AE0000",
       "rom_pol": "A2D28100",
       "address4": "0A000700"
     },
     {
-      "name": "0xE0EB4",
+      "name": "amy_shadow_arm2?",
       "address1": "245D0900",
       "rom_tex": "00AF0000",
       "rom_pol": "07D38100",
       "address4": "0A000700"
     },
     {
-      "name": "0xE0EC4",
+      "name": "amy_shadow?",
       "address1": "745D0900",
       "rom_tex": "1CAF0000",
       "rom_pol": "6CD38100",
       "address4": "5E005100"
     },
     {
-      "name": "0xE0ED4",
+      "name": "nothing?",
       "address1": "10600900",
       "rom_tex": "60B00000",
       "rom_pol": "19D78100",
       "address4": "02000100"
     },
     {
-      "name": "0xE0EE4",
+      "name": "nothing?",
       "address1": "20600900",
       "rom_tex": "64B00000",
       "rom_pol": "2ED78100",
       "address4": "02000100"
     },
     {
-      "name": "0xE0EF4",
+      "name": "nothing?",
       "address1": "30600900",
       "rom_tex": "68B00000",
       "rom_pol": "43D78100",
       "address4": "02000100"
     },
     {
-      "name": "0xE0F04",
+      "name": "nothing?",
       "address1": "40600900",
       "rom_tex": "6CB00000",
       "rom_pol": "58D78100",
       "address4": "02000100"
     },
     {
-      "name": "0xE0F14",
+      "name": "nothing?",
       "address1": "50600900",
       "rom_tex": "70B00000",
       "rom_pol": "6DD78100",
       "address4": "02000100"
     },
     {
-      "name": "0xE0F24",
+      "name": "amy_shadow?",
       "address1": "60600900",
       "rom_tex": "74B00000",
       "rom_pol": "82D78100",
       "address4": "06000400"
     },
     {
-      "name": "0xE0F34",
+      "name": "amy_shadow?",
       "address1": "90600900",
       "rom_tex": "84B00000",
       "rom_pol": "BFD78100",
       "address4": "06000400"
     },
     {
-      "name": "0xE0F44",
+      "name": "amy_shadow?",
       "address1": "C0600900",
       "rom_tex": "94B00000",
       "rom_pol": "FCD78100",
       "address4": "06000400"
     },
     {
-      "name": "0xE0F54",
+      "name": "amy_shadow?",
       "address1": "F0600900",
       "rom_tex": "A4B00000",
       "rom_pol": "39D88100",
       "address4": "06000400"
     },
     {
-      "name": "0xE0F64",
+      "name": "amy_hammer_shadow",
       "address1": "20610900",
       "rom_tex": "B4B00000",
       "rom_pol": "76D88100",
       "address4": "38002C00"
     },
     {
-      "name": "0xE0F74",
+      "name": "plane_shadow?",
       "address1": "E0620900",
       "rom_tex": "64B10000",
       "rom_pol": "A7DA8100",
       "address4": "4E004900"
     },
     {
-      "name": "0xE0F84",
+      "name": "shadow?",
       "address1": "38650900",
       "rom_tex": "88B20000",
       "rom_pol": "B4DD8100",
       "address4": "15001400"
     },
     {
-      "name": "0xE0F94",
+      "name": "shadow?",
       "address1": "E0650900",
       "rom_tex": "D8B20000",
       "rom_pol": "87DE8100",
       "address4": "16001400"
     },
     {
-      "name": "0xE0FA4",
+      "name": "shadow?",
       "address1": "90660900",
       "rom_tex": "28B30000",
       "rom_pol": "64DF8100",
       "address4": "14000D00"
     },
     {
-      "name": "0xE0FB4",
+      "name": "shadow?",
       "address1": "30670900",
       "rom_tex": "5CB30000",
       "rom_pol": "2DE08100",
       "address4": "14000D00"
     },
     {
-      "name": "0xE0FC4",
+      "name": "black_and_white_winged_thing?",
       "address1": "C8670900",
       "rom_tex": "90B30000",
       "rom_pol": "F6E08100",
       "address4": "25002400"
     },
     {
-      "name": "0xE0FD4",
+      "name": "black_and_white_winged_thing2?",
       "address1": "F0680900",
       "rom_tex": "20B40000",
       "rom_pol": "69E28100",
       "address4": "25002400"
     },
     {
-      "name": "0xE0FE4",
+      "name": "black_and_white_winged_thing3?",
       "address1": "186A0900",
       "rom_tex": "B0B40000",
       "rom_pol": "DCE38100",
       "address4": "25002400"
     },
     {
-      "name": "0xE0FF4",
+      "name": "black_and_white_winged_thing4?",
       "address1": "406B0900",
       "rom_tex": "40B50000",
       "rom_pol": "4FE58100",
       "address4": "25002400"
     },
     {
-      "name": "0xE1004",
+      "name": "black_and_white_winged_thing5?",
       "address1": "686C0900",
       "rom_tex": "D0B50000",
       "rom_pol": "C2E68100",
       "address4": "25002400"
     },
     {
-      "name": "0xE1014",
+      "name": "nothing?",
       "address1": "906D0900",
       "rom_tex": "60B60000",
       "rom_pol": "35E88100",
       "address4": "00000000"
     },
     {
-      "name": "0xE1024",
+      "name": "nothing?",
       "address1": "986D0900",
       "rom_tex": "64B60000",
       "rom_pol": "4AE88100",
       "address4": "77006E00"
     },
     {
-      "name": "0xE1034",
+      "name": "nothing?",
       "address1": "34710900",
       "rom_tex": "1CB80000",
       "rom_pol": "F1EC8100",
       "address4": "77006E00"
     },
     {
-      "name": "0xE1044",
+      "name": "bark_head_blink1",
       "address1": "D0740900",
       "rom_tex": "D4B90000",
       "rom_pol": "98F18100",
       "address4": "5B015001"
     },
     {
-      "name": "0xE1054",
+      "name": "bark_head_blink2",
       "address1": "C87E0900",
       "rom_tex": "14BF0000",
       "rom_pol": "27FF8100",
       "address4": "5B015001"
     },
     {
-      "name": "0xE1064",
+      "name": "bark_head_hurt1",
       "address1": "C0880900",
       "rom_tex": "54C40000",
       "rom_pol": "B60C8200",
       "address4": "41013401"
     },
     {
-      "name": "0xE1074",
+      "name": "bark_head_hurt2",
       "address1": "E4910900",
       "rom_tex": "24C90000",
       "rom_pol": "41198200",
       "address4": "41013401"
     },
     {
-      "name": "0xE1084",
+      "name": "bark_head_mouth_half_open",
       "address1": "089B0900",
       "rom_tex": "F4CD0000",
       "rom_pol": "CC258200",
       "address4": "21011601"
     },
     {
-      "name": "0xE1094",
+      "name": "bark_head_mouth_open",
       "address1": "3CA30900",
       "rom_tex": "4CD20000",
       "rom_pol": "17318200",
       "address4": "21011601"
     },
     {
-      "name": "0xE10A4",
+      "name": "bark_head_shocked1",
       "address1": "70AB0900",
       "rom_tex": "A4D60000",
       "rom_pol": "623C8200",
       "address4": "45013A01"
     },
     {
-      "name": "0xE10B4",
+      "name": "bark_head_shocked2",
       "address1": "B8B40900",
       "rom_tex": "8CDB0000",
       "rom_pol": "15498200",
       "address4": "45013A01"
     },
     {
-      "name": "0xE10C4",
+      "name": "bark_head?",
       "address1": "00BE0900",
       "rom_tex": "74E00000",
       "rom_pol": "C8558200",
       "address4": "0F010801"
     },
     {
-      "name": "0xE10D4",
+      "name": "bark_head?",
       "address1": "B0C50900",
       "rom_tex": "94E40000",
       "rom_pol": "5F608200",
       "address4": "0F010801"
     },
     {
-      "name": "0xE10E4",
+      "name": "bark_eye_left1",
       "address1": "60CD0900",
       "rom_tex": "B4E80000",
       "rom_pol": "F66A8200",
       "address4": "13001200"
     },
     {
-      "name": "0xE10F4",
+      "name": "bark_eye_left2",
       "address1": "F2CD0900",
       "rom_tex": "FCE80000",
       "rom_pol": "B56B8200",
       "address4": "13001200"
     },
     {
-      "name": "0xE1104",
+      "name": "bark_eye_right1",
       "address1": "84CE0900",
       "rom_tex": "44E90000",
       "rom_pol": "746C8200",
       "address4": "13001200"
     },
     {
-      "name": "0xE1114",
+      "name": "bark_eye_right2",
       "address1": "16CF0900",
       "rom_tex": "8CE90000",
       "rom_pol": "336D8200",
       "address4": "13001200"
     },
     {
-      "name": "0xE1124",
+      "name": "bark_eye_angry_left1",
       "address1": "A8CF0900",
       "rom_tex": "D4E90000",
       "rom_pol": "F26D8200",
       "address4": "11000F00"
     },
     {
-      "name": "0xE1134",
+      "name": "bark_eye_angry_left2",
       "address1": "28D00900",
       "rom_tex": "10EA0000",
       "rom_pol": "9D6E8200",
       "address4": "11000F00"
     },
     {
-      "name": "0xE1144",
+      "name": "bark_eye_angry_right1",
       "address1": "A8D00900",
       "rom_tex": "4CEA0000",
       "rom_pol": "486F8200",
       "address4": "11000F00"
     },
     {
-      "name": "0xE1154",
+      "name": "bark_eye_angry_right2",
       "address1": "28D10900",
       "rom_tex": "88EA0000",
       "rom_pol": "F36F8200",
       "address4": "11000F00"
     },
     {
-      "name": "0xE1164",
+      "name": "black_thing_with_stripe?",
       "address1": "A8D10900",
       "rom_tex": "C4EA0000",
       "rom_pol": "9E708200",
       "address4": "47004500"
     },
     {
-      "name": "0xE1174",
+      "name": "black_thing_with_stripe2?",
       "address1": "C4D30900",
       "rom_tex": "D8EB0000",
       "rom_pol": "65738200",
       "address4": "48004500"
     },
     {
-      "name": "0xE1184",
+      "name": "bark_head_flattened1",
       "address1": "E8D50900",
       "rom_tex": "ECEC0000",
       "rom_pol": "36768200",
       "address4": "41013401"
     },
     {
-      "name": "0xE1194",
+      "name": "bark_head_flattened2",
       "address1": "0CDF0900",
       "rom_tex": "BCF10000",
       "rom_pol": "C1828200",
       "address4": "41013401"
     },
     {
-      "name": "0xE11A4",
+      "name": "shoe?",
       "address1": "30E80900",
       "rom_tex": "8CF60000",
       "rom_pol": "4C8F8200",
       "address4": "42003F00"
     },
     {
-      "name": "0xE11B4",
+      "name": "shoe?",
       "address1": "1CEA0900",
       "rom_tex": "88F70000",
       "rom_pol": "E1918200",
       "address4": "42003F00"
     },
     {
-      "name": "0xE11C4",
+      "name": "buckle?",
       "address1": "08EC0900",
       "rom_tex": "84F80000",
       "rom_pol": "76948200",
       "address4": "16001500"
     },
     {
-      "name": "0xE11D4",
+      "name": "buckle?",
       "address1": "B0EC0900",
       "rom_tex": "D8F80000",
       "rom_pol": "53958200",
       "address4": "16001500"
     },
     {
-      "name": "0xE11E4",
+      "name": "eggman_head?",
       "address1": "58ED0900",
       "rom_tex": "2CF90000",
       "rom_pol": "30968200",
       "address4": "7B006F00"
     },
     {
-      "name": "0xE11F4",
+      "name": "fang_piece?",
       "address1": "E8F00900",
       "rom_tex": "E8FA0000",
       "rom_pol": "FF9A8200",
       "address4": "23002100"
     },
     {
-      "name": "0xE1204",
+      "name": "fang_piece?",
       "address1": "F4F10900",
       "rom_tex": "6CFB0000",
       "rom_pol": "5E9C8200",
       "address4": "23002100"
     },
     {
-      "name": "0xE1214",
+      "name": "fang_piece?",
       "address1": "00F30900",
       "rom_tex": "F0FB0000",
       "rom_pol": "BD9D8200",
       "address4": "31002E00"
     },
     {
-      "name": "0xE1224",
+      "name": "fang_piece?",
       "address1": "78F40900",
       "rom_tex": "A8FC0000",
       "rom_pol": "A89F8200",
       "address4": "1E001C00"
     },
     {
-      "name": "0xE1234",
+      "name": "fang_piece?",
       "address1": "68F50900",
       "rom_tex": "18FD0000",
       "rom_pol": "D5A08200",
       "address4": "1E001C00"
     },
     {
-      "name": "0xE1244",
+      "name": "eggman_robo_piece?",
       "address1": "58F60900",
       "rom_tex": "88FD0000",
       "rom_pol": "02A28200",
       "address4": "EE01DF01"
     },
     {
-      "name": "0xE1254",
+      "name": "eggman_claw1",
       "address1": "B8040A00",
       "rom_tex": "04050100",
       "rom_pol": "4FB58200",
       "address4": "1F001E00"
     },
     {
-      "name": "0xE1264",
+      "name": "eggman_claw2",
       "address1": "B0050A00",
       "rom_tex": "7C050100",
       "rom_pol": "86B68200",
       "address4": "1F001E00"
     },
     {
-      "name": "0xE1274",
+      "name": "eggman_claw3",
       "address1": "A8060A00",
       "rom_tex": "F4050100",
       "rom_pol": "BDB78200",
       "address4": "1F001E00"
     },
     {
-      "name": "0xE1284",
+      "name": "eggman_claw4",
       "address1": "A0070A00",
       "rom_tex": "6C060100",
       "rom_pol": "F4B88200",
       "address4": "1F001E00"
     },
     {
-      "name": "0xE1294",
+      "name": "robo_piece?",
       "address1": "98080A00",
       "rom_tex": "E4060100",
       "rom_pol": "2BBA8200",
       "address4": "2D002A00"
     },
     {
-      "name": "0xE12A4",
+      "name": "robo_piece?",
       "address1": "000A0A00",
       "rom_tex": "8C070100",
       "rom_pol": "EEBB8200",
       "address4": "2D002A00"
     },
     {
-      "name": "0xE12B4",
+      "name": "espio_head_flattened1",
       "address1": "680B0A00",
       "rom_tex": "34080100",
       "rom_pol": "B1BD8200",
       "address4": "FC00F100"
     },
     {
-      "name": "0xE12C4",
+      "name": "espio_head_flattened2",
       "address1": "D4120A00",
       "rom_tex": "F80B0100",
       "rom_pol": "8AC78200",
       "address4": "FE00F100"
     },
     {
-      "name": "0xE12D4",
+      "name": "espio_head_flattened3",
       "address1": "501A0A00",
       "rom_tex": "BC0F0100",
       "rom_pol": "77D18200",
       "address4": "FC00F100"
     },
     {
-      "name": "0xE12E4",
+      "name": "espio_head_flattened4",
       "address1": "BC210A00",
       "rom_tex": "80130100",
       "rom_pol": "50DB8200",
       "address4": "FE00F100"
     },
     {
-      "name": "0xE12F4",
+      "name": "fang_head_flattened_left1",
       "address1": "38290A00",
       "rom_tex": "44170100",
       "rom_pol": "3DE58200",
       "address4": "DC00CF00"
     },
     {
-      "name": "0xE1304",
+      "name": "fang_head_flattened_right2",
       "address1": "B02F0A00",
       "rom_tex": "801A0100",
       "rom_pol": "D6ED8200",
       "address4": "DC00CF00"
     },
     {
-      "name": "0xE1314",
+      "name": "fang_head_flattened_left2",
       "address1": "28360A00",
       "rom_tex": "BC1D0100",
       "rom_pol": "6FF68200",
       "address4": "DC00CF00"
     },
     {
-      "name": "0xE1324",
+      "name": "fang_head_flattened_right2",
       "address1": "A03C0A00",
       "rom_tex": "F8200100",
       "rom_pol": "08FF8200",
       "address4": "DC00CF00"
     },
     {
-      "name": "0xE1334",
+      "name": "knuckles_head_flattened1",
       "address1": "18430A00",
       "rom_tex": "34240100",
       "rom_pol": "A1078300",
       "address4": "48013601"
     },
     {
-      "name": "0xE1344",
+      "name": "knuckles_head_flattened2",
       "address1": "204C0A00",
       "rom_tex": "0C290100",
       "rom_pol": "72148300",
       "address4": "45013401"
     },
     {
-      "name": "0xE1354",
+      "name": "robo_foot?",
       "address1": "18550A00",
       "rom_tex": "DC2D0100",
       "rom_pol": "25218300",
       "address4": "28002500"
     },
     {
-      "name": "0xE1364",
+      "name": "robo_foot?",
       "address1": "44560A00",
       "rom_tex": "702E0100",
       "rom_pol": "B6228300",
       "address4": "28002500"
     },
     {
-      "name": "0xE1374",
+      "name": "robo_piece?",
       "address1": "70570A00",
       "rom_tex": "042F0100",
       "rom_pol": "47248300",
       "address4": "14001200"
     },
     {
-      "name": "0xE1384",
+      "name": "robo_piece",
       "address1": "08580A00",
       "rom_tex": "4C2F0100",
       "rom_pol": "10258300",
       "address4": "14001200"
     },
     {
-      "name": "0xE1394",
+      "name": "robo_egg_head_flattened",
       "address1": "A0580A00",
       "rom_tex": "942F0100",
       "rom_pol": "D9258300",
       "address4": "B900AF00"
     },
     {
-      "name": "0xE13A4",
+      "name": "robo_egg_piece?",
       "address1": "225E0A00",
       "rom_tex": "50320100",
       "rom_pol": "142D8300",
       "address4": "37003400"
     },
     {
-      "name": "0xE13B4",
+      "name": "robo_egg_piece?",
       "address1": "BA5F0A00",
       "rom_tex": "20330100",
       "rom_pol": "3B2F8300",
       "address4": "37003400"
     },
     {
-      "name": "0xE13C4",
+      "name": "robo_piece?",
       "address1": "52610A00",
       "rom_tex": "F0330100",
       "rom_pol": "62318300",
       "address4": "0D000C00"
     },
     {
-      "name": "0xE13D4",
+      "name": "robo_piece?",
       "address1": "AA610A00",
       "rom_tex": "20340100",
       "rom_pol": "E5318300",
       "address4": "0D000C00"
     },
     {
-      "name": "0xE13E4",
+      "name": "robo_rockets?",
       "address1": "02620A00",
       "rom_tex": "50340100",
       "rom_pol": "68328300",
       "address4": "40013801"
     },
     {
-      "name": "0xE13F4",
+      "name": "robo_drill?",
       "address1": "9A6B0A00",
       "rom_tex": "30390100",
       "rom_pol": "E93E8300",
       "address4": "19001800"
     },
     {
-      "name": "0xE1404",
+      "name": "robo_drill?",
       "address1": "4E6C0A00",
       "rom_tex": "90390100",
       "rom_pol": "E43F8300",
       "address4": "19001800"
     },
     {
-      "name": "0xE1414",
+      "name": "robo_piece?",
       "address1": "026D0A00",
       "rom_tex": "F0390100",
       "rom_pol": "DF408300",
       "address4": "14001200"
     },
     {
-      "name": "0xE1424",
+      "name": "giant_stone_sonic_head",
       "address1": "9A6D0A00",
       "rom_tex": "383A0100",
       "rom_pol": "A8418300",
       "address4": "7B007500"
     },
     {
-      "name": "0xE1434",
+      "name": "giant_teeth?",
       "address1": "EE700A00",
       "rom_tex": "0C3C0100",
       "rom_pol": "77468300",
       "address4": "30002D00"
     },
     {
-      "name": "0xE1444",
+      "name": "arena_mushrooms",
       "address1": "66720A00",
       "rom_tex": "C03C0100",
       "rom_pol": "58488300",
       "address4": "49013B01"
     },
     {
-      "name": "0xE1454",
+      "name": "nothing?",
       "address1": "5A7C0A00",
       "rom_tex": "AC410100",
       "rom_pol": "33558300",
       "address4": "02000100"
     },
     {
-      "name": "0xE1464",
+      "name": "nothing?",
       "address1": "6A7C0A00",
       "rom_tex": "B0410100",
       "rom_pol": "48558300",
       "address4": "36002C00"
     },
     {
-      "name": "0xE1474",
+      "name": "nothing?",
       "address1": "1A7E0A00",
       "rom_tex": "60420100",
       "rom_pol": "65578300",
       "address4": "04000300"
     },
     {
-      "name": "0xE1484",
+      "name": "giant_blotchy_yellow_pot?",
       "address1": "387E0A00",
       "rom_tex": "6C420100",
       "rom_pol": "8E578300",
       "address4": "1F001C00"
     },
     {
-      "name": "0xE1494",
+      "name": "tails_foot_flattened_left",
       "address1": "307F0A00",
       "rom_tex": "DC420100",
       "rom_pol": "C5588300",
       "address4": "1E001D00"
     },
     {
-      "name": "0xE14A4",
+      "name": "tails_foot_flattened_right",
       "address1": "18800A00",
       "rom_tex": "50430100",
       "rom_pol": "F2598300",
       "address4": "1E001D00"
     },
     {
-      "name": "0xE14B4",
+      "name": "white_cube?",
       "address1": "00810A00",
       "rom_tex": "C4430100",
       "rom_pol": "1F5B8300",
       "address4": "15001400"
     },
     {
-      "name": "0xE14C4",
+      "name": "white_cube?",
       "address1": "98810A00",
       "rom_tex": "14440100",
       "rom_pol": "F25B8300",
       "address4": "15001400"
     },
     {
-      "name": "0xE14D4",
+      "name": "tails_head_flattened1",
       "address1": "30820A00",
       "rom_tex": "64440100",
       "rom_pol": "C55C8300",
       "address4": "BB00B200"
     },
     {
-      "name": "0xE14E4",
+      "name": "tails_head_flattened2",
       "address1": "74870A00",
       "rom_tex": "2C470100",
       "rom_pol": "14648300",
       "address4": "E300D600"
     },
     {
-      "name": "0xE14F4",
+      "name": "orange_piece?",
       "address1": "EC8D0A00",
       "rom_tex": "844A0100",
       "rom_pol": "F36C8300",
       "address4": "0D000C00"
     },
     {
-      "name": "0xE1504",
+      "name": "orange_piece?",
       "address1": "448E0A00",
       "rom_tex": "B44A0100",
       "rom_pol": "766D8300",
       "address4": "0D000C00"
     },
     {
-      "name": "0xE1514",
+      "name": "tails_eye_flattened_left",
       "address1": "9C8E0A00",
       "rom_tex": "E44A0100",
       "rom_pol": "F96D8300",
       "address4": "0A000900"
     },
     {
-      "name": "0xE1524",
+      "name": "tails_eye_flattened_right",
       "address1": "EC8E0A00",
       "rom_tex": "084B0100",
       "rom_pol": "5E6E8300",
       "address4": "0A000900"
     },
     {
-      "name": "0xE1534",
+      "name": "orange_piece?",
       "address1": "3C8F0A00",
       "rom_tex": "2C4B0100",
       "rom_pol": "C36E8300",
       "address4": "0D000C00"
     },
     {
-      "name": "0xE1544",
+      "name": "orange_piece?",
       "address1": "948F0A00",
       "rom_tex": "5C4B0100",
       "rom_pol": "466F8300",
       "address4": "0D000C00"
     },
     {
-      "name": "0xE1554",
+      "name": "tails_body_flattened",
       "address1": "EC8F0A00",
       "rom_tex": "8C4B0100",
       "rom_pol": "C96F8300",
       "address4": "61006000"
     },
     {
-      "name": "0xE1564",
+      "name": "tails_tail_flattened1",
       "address1": "C4920A00",
       "rom_tex": "0C4D0100",
       "rom_pol": "94738300",
       "address4": "25002400"
     },
     {
-      "name": "0xE1574",
+      "name": "tails_tail_flattened2",
       "address1": "DC930A00",
       "rom_tex": "9C4D0100",
       "rom_pol": "07758300",
       "address4": "25002400"
     },
     {
-      "name": "0xE1584",
+      "name": "tails_tail_flattened3",
       "address1": "F4940A00",
       "rom_tex": "2C4E0100",
       "rom_pol": "7A768300",
       "address4": "25002400"
     },
     {
-      "name": "0xE1594",
+      "name": "tails_tail_flattened4",
       "address1": "0C960A00",
       "rom_tex": "BC4E0100",
       "rom_pol": "ED778300",
       "address4": "25002400"
     },
     {
-      "name": "0xE15A4",
+      "name": "tails_tail_flattened5",
       "address1": "24970A00",
       "rom_tex": "4C4F0100",
       "rom_pol": "60798300",
       "address4": "25002400"
     },
     {
-      "name": "0xE15B4",
+      "name": "tails_tail_flattened6",
       "address1": "3C980A00",
       "rom_tex": "DC4F0100",
       "rom_pol": "D37A8300",
       "address4": "25002400"
     },
     {
-      "name": "0xE15C4",
+      "name": "tails_tail_flattened7",
       "address1": "54990A00",
       "rom_tex": "6C500100",
       "rom_pol": "467C8300",
       "address4": "25002400"
     },
     {
-      "name": "0xE15D4",
+      "name": "tails_tail_flattened8",
       "address1": "6C9A0A00",
       "rom_tex": "FC500100",
       "rom_pol": "B97D8300",
       "address4": "25002400"
     },
     {
-      "name": "0xE15E4",
+      "name": "tails_tail_flattened9",
       "address1": "849B0A00",
       "rom_tex": "8C510100",
       "rom_pol": "2C7F8300",
       "address4": "25002400"
     },
     {
-      "name": "0xE15F4",
+      "name": "tails_tail_flattened10",
       "address1": "9C9C0A00",
       "rom_tex": "1C520100",
       "rom_pol": "9F808300",
@@ -3578,7 +3578,7 @@
       "address4": "8D007500"
     },
     {
-      "name": "0xE1FF4",
+      "name": "greenhill_piece_waterfall",
       "address1": "D2CD0B00",
       "rom_tex": "B0EB0100",
       "rom_pol": "C11B8500",
@@ -21078,14 +21078,14 @@
       "address4": "31002E00"
     },
     {
-      "name": "0xEBC34",
+      "name": "3d_letter_o",
       "address1": "F0384F00",
       "rom_tex": "E4391300",
       "rom_pol": "EEDA9E00",
       "address4": "31002E00"
     },
     {
-      "name": "0xEBC44",
+      "name": "3d_letter_k",
       "address1": "703A4F00",
       "rom_tex": "9C3A1300",
       "rom_pol": "D9DC9E00",
