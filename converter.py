@@ -193,6 +193,14 @@ def rom_data_index(name):
             return i
         i += 16
 
+def rom_data_by_index(index):
+    map = ROM_DATA_MAP
+    i = 0
+    for model in map["rom_data"]:
+        if i == index:
+            return model
+        i += 1
+
 def get_property(prop_name):
     for prop in CONFIG:
         if prop[0] == prop_name:
@@ -241,6 +249,7 @@ def main():
     print(f"Converting model...\n\n")
     in_obj = open_obj("./in.obj")
     current = rom_data_name("sonic_head_idle_right")
+    print(rom_data_by_index(3028))
     print(model_ptr_to_addr(current["rom_pol"]))
     print(mat_ptr_to_addr(current["rom_tex"]))
     out_stf = convert_obj(in_obj)
