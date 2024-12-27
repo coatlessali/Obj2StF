@@ -207,7 +207,7 @@ def get_property(prop_name):
             return prop[1]
 
 def inject(rom, address, data):
-    f = open(get_property("ROM_DIR") + "\\" + rom, "r+b")
+    f = open(os.path.join(get_property("ROM_DIR"), rom), "r+b")
     if "0x" in address:
         address = int(address, 0)
     else:
