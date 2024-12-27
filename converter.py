@@ -223,6 +223,9 @@ def inject_model_pointer(address, data):
     base = rom_data_index(address)
     base += 8
     inject("rom_data.bin", hex(base), data)
+    #Polygon limit patch:
+    #inject("rom_data.bin", hex(base-4), "C0880900")
+    #inject("rom_data.bin", hex(base+4), "41013401")
 
 def inject_mat_pointer(address, data):
     base = rom_data_index(address)
@@ -247,19 +250,28 @@ ROM_DATA_MAP = read_json("./rom_data.json")
 def main():
     import_settings()
     print(f"Converting model...\n\n")
-    in_obj = open_obj("./in.obj")
-    current = rom_data_name("sonic_head_idle_right")
-    print(rom_data_by_index(3028))
-    print(model_ptr_to_addr(current["rom_pol"]))
-    print(mat_ptr_to_addr(current["rom_tex"]))
-    out_stf = convert_obj(in_obj)
-    stf_to_file(out_stf, "out")
-    mdl_ptr = addr_to_model_ptr("0xEC2590")
-    mat_ptr = addr_to_mat_ptr("0x7B45E0")
-    inject_model_pointer("sonic_head_idle_right", mdl_ptr)
-    inject_mat_pointer("sonic_head_idle_right", mat_ptr)
-    inject("rom_pol.bin", "0xEC2590", out_stf[0])
-    inject("rom_tex.bin", "0x7B45E0", out_stf[1])
 
+    #_____________________________________________________
+    #Replace Sonic's head
+    #_____________________________________________________
+    in_obj = open_obj("./in.obj")
+    out_stf = convert_obj(in_obj)
+    #Choose empty or unused spaces in rom_pol.bin and rom_tex.bin
+    pol_addr = "0xEC2590"
+    tex_addr = "0x7B45E0"
+
+    mdl_ptr = addr_to_model_ptr(pol_addr)
+    mat_ptr = addr_to_mat_ptr(tex_addr)
+    for i in [2703,2704,3027,3028,3017,3018,3019,3020,3021,3022,4140,3543,3544,3023,3024,3025,3026,2404, 1150]:
+        name = rom_data_by_index(i)["name"]
+        inject_model_pointer(name, mdl_ptr)
+        inject_mat_pointer(name, mat_ptr)
+    inject("rom_pol.bin", pol_addr, out_stf[0])
+    inject("rom_tex.bin", tex_addr, out_stf[1])
+    #___________________________________________________________
+
+
+    print("\nFinished successfully!")
+    print("Man that took forever. Whose idea was it to use Python?")
 
 main()
